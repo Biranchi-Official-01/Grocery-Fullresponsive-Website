@@ -1,6 +1,6 @@
 import React from 'react'
 import Banner from '../Banner/Banner'
-import CategoryPage from '../CategoryPage/CateGoryPage'
+import CategoryPage from '../CategoryPage/CategoryPage'
 import BgSeaFood from '../../assets/seafood-banner.jpg'
 
 const Seafood = () => {
