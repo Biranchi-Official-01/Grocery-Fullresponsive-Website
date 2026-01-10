@@ -1,6 +1,6 @@
 🌐 Live Demo
 
-🔗 Live Link: grocerywebsite01.vercel.app
+🔗 Live Link: [grocerywebsite01.vercel.app](https://grocerywebsite01.vercel.app/)
 
 # React + Vite
 
